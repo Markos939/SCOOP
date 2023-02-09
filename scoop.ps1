@@ -6,4 +6,4 @@ if ((Get-Command "scoop" -ErrorAction SilentlyContinue) -eq $null)
     scoop bucket add extras
 }
 
-scoop install thunderbird 7zip microsip foxit-pdf-reader googlechrome anydesk teamviewer zoom skype
+scoop install thunderbird 7zip microsip foxit-pdf-reader googlechrome anydesk teamviewer zoom skype libreoffice
